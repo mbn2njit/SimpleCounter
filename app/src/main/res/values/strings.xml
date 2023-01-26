@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCounter</string>
+    <string name="Button_text">ADD 1 MORE SOLDIER TO THE GLORIOUS NATION OF TUMULT</string>
+    <string name="Textview_text">0</string>
+</resources>
